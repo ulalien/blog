@@ -21,6 +21,7 @@ git push origin master
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
+printf "123"
 # Go To Public folder
 cd public
 
