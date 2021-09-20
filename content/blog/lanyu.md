@@ -5,7 +5,7 @@ author = "Ula"
 date = "2021-09-20"
 tags = ["travel"]
 [[images]]
-  src = "img/main/lanyu.jpg"
+  src = "/img/main/lanyu.jpg"
   alt = "Fox"
   stretch = "Vertical"
 +++

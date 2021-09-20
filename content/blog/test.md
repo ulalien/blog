@@ -5,7 +5,7 @@ author = "Ula"
 date = "2019-03-10"
 tags = ["shortcodes", "privacy","travel"]
 [[images]]
-  src = "img/main/logo.jpg"
+  src = "/img/main/logo.jpg"
   alt = "Fox"
   stretch = "Vertical"
 +++
