@@ -4,8 +4,9 @@ description = "test"
 author = "Ula"
 date = "2021-09-20"
 tags = ["travel"]
+categories = ["travel", "syntax"]
 [[images]]
-  src = "/img/main/lanyu.jpg"
+  src = "/img/main/lanyu/lanyu.jpg"
   alt = "Fox"
   stretch = "Vertical"
 +++
@@ -28,7 +29,7 @@ tags = ["travel"]
 波了我們有趣的自我介紹
 最終我們像中了蘭嶼的一家燒烤店
 耶！我們為期一個月的小幫手之旅準備啟航！
-![Untitiled](/img/main/lanyu.jpg)
+![Untitiled](/img/main/lanyu/lanyu.jpg)
 
 ---
 

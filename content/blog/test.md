@@ -4,6 +4,7 @@ description = "test"
 author = "Ula"
 date = "2019-03-10"
 tags = ["shortcodes", "privacy","travel"]
+categories = ["travel", "syntax"]
 [[images]]
   src = "/img/main/logo.jpg"
   alt = "Fox"
